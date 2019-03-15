@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Button</string>
+    <string name="klick_mich">Klick mich!</string>
+    <string name="dein_name">Dein Name</string>
+</resources>
