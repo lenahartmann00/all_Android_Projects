@@ -16,7 +16,7 @@ Nevertheless you will find a quick summary what the app does, one or two images 
 ### Summary
 Converts Euro in US-Dollar and shows the result in a Toast
 ### Screenshot
-![](https://github.com/lenahartmann00/all_Android_Projects/tree/master/Screenshots/currencyConverter.png)
+![](/Screenshots/currencyConverter.jpg)
 ### What I learned
 - Creating an EditText, which only excepts numbers, and getting the input of it
 - Working with buttons
