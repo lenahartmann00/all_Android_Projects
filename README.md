@@ -17,6 +17,7 @@ Nevertheless you will find a quick summary what the app does, one or two images 
 Converts Euro in US-Dollar and shows the result in a Toast
 ### Screenshot
 <img src="/Screenshots/currencyConverter.jpg" alt="currencyConverterScreenshot" width="200"/>
+
 ### What I learned
 - Creating an EditText, which only excepts numbers, and getting the input of it
 - Working with buttons
@@ -28,6 +29,7 @@ Converts Euro in US-Dollar and shows the result in a Toast
 Translates some basic phrases into french, by playing an audio
 ### Screenshot
 <img src="/Screenshots/simplePhrases.jpg" alt="simplePhrases" width="200"/>
+
 ### What I learned
 - Playing an audio using a MediaPlayer and Uri
 - Structring the buttons with a GridLayout
@@ -38,6 +40,7 @@ Demonstrates the multiplication table (of the integers 1 through 20) with a slid
 ### Screenshots
 <img src="/Screenshots/multiply1.jpg" alt="multiply1" width="200"/>
 <img src="/Screenshots/multiply2.jpg" alt="multiply2" width="200"/>
+
 ### What I learned
 - Creating a ListView
 - Setting up a SeekBar and a SeekbarListener
@@ -47,6 +50,7 @@ Demonstrates the multiplication table (of the integers 1 through 20) with a slid
 ### Summary
 ### Screenshot
 <img src="/Screenshots/weatherApp.jpg" alt="weatherApp" width="200"/>
+
 ### What I learned
 - Getting information from a REST-API [Apixu](https://www.apixu.com/) (using DownloadTask, HttpURLConnection and InputStreamReader)
 - Evaluating the Json data
@@ -58,6 +62,7 @@ Demonstrates the multiplication table (of the integers 1 through 20) with a slid
 Multiple Choice quiz game that let's the user guess the celebrity shown in the picture
 ### Screenshot
 <img src="/Screenshots/guessTheCelebrity.jpg" alt="guessTheCelebrity" width="200"/>
+
 ### What I learned
 - Downloading HTML code of a website
 - Working with HTML code as a String(Cutting and splitting it to get only the necessary information)
@@ -69,6 +74,7 @@ Multiple Choice quiz game that let's the user guess the celebrity shown in the p
 Simple "egg"-timer that plays a horn sound when finished.
 ### Screenshot
 <img src="/Screenshots/timer.jpg" alt="timer" width="200"/>
+
 ### What I learned
 - Interacting with a timer (making it start and stop by pressing a button)
 - Playing a sound when the timer gets to 0ms
@@ -80,6 +86,7 @@ Shows the New, Top and Best Stories of Hacker News.
 ### Screenshot
 <img src="/Screenshots/newsList.jpg" alt="newsList" width="200"/>
 <img src="/Screenshots/newsWeb.jpg" alt="newsWeb" width="200"/>
+
 ### What I learned
 - REST-API: [Hacker News](https://github.com/HackerNews/API)
 - WebView to show the current news website
@@ -91,6 +98,7 @@ Let's the user take notes
 ### Screenshot
 <img src="/Screenshots/notesList.jpg" alt="notesList" width="200"/>
 <img src="/Screenshots/notesEdit.jpg" alt="notesEdit" width="200"/>
+
 ### What I learned
 - Saving input from user in SQLite-Database
 - Loading data from database into ListView and EditText
