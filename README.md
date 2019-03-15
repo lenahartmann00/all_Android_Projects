@@ -16,7 +16,7 @@ Nevertheless you will find a quick summary what the app does, one or two images 
 ### Summary
 Converts Euro in US-Dollar and shows the result in a Toast
 ### Screenshot
-![](/Screenshots/currencyConverter.jpg = 250x)
+![](/Screenshots/currencyConverter.jpg=250x)
 ### What I learned
 - Creating an EditText, which only excepts numbers, and getting the input of it
 - Working with buttons
