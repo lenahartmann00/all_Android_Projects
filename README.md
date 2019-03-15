@@ -1,5 +1,5 @@
 # Practice Apps - Android
-Here are all of my android apps collected, that I coded during the Android Courses (Udemy and Team Treehouse). Those were only programmed to apply the theoretical knowledge. That is why I didn't really pay attention on writing clean code but rather on experimenting different solutions and getting the most learning output out of it. Also I didn't rewrite the code again so it is as unclean and probably not good readable as I 
+Here are all of my android apps collected, that I coded during the Android Courses (Udemy and Team Treehouse). Those were only programmed to apply the theoretical knowledge. That is why I didn't really pay attention on writing clean code but rather on experimenting different solutions and getting the most learning out of it.<br>
 Nevertheless you will find a quick summary what the app does, one or two images what it looks like and the main learnings I got by implementing this.
 
 ## Directory
